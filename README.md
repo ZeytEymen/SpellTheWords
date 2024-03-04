@@ -1,1 +1,1 @@
-# Heceleme
+# Spelling Algorithm
